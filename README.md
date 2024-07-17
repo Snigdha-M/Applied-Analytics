@@ -9,4 +9,3 @@ This repo contains the projects conducted for understanding the statistics using
 8. Testing the Null: Data on Trial
 9. Categorical Associations
 10. Continuous Relationships
-11. 
